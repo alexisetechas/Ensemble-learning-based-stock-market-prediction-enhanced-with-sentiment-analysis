@@ -7,3 +7,7 @@ Semana II (06/11)
 * Fixamos a ideia do projeto : **Previsão do Mercado brasileiro com Aprendizagem Ensemble e Análise de Sentimento.**
 
 * Organização e metodologias
+
+Semana III (20/11)
+
+* Sebastian -> Começo do Web Scrapping para Análise de Sentimento

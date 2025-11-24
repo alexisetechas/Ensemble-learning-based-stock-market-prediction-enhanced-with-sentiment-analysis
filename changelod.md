@@ -11,3 +11,4 @@ Semana II (06/11)
 Semana III (20/11)
 
 * Sebastian -> Começo do Web Scrapping para Análise de Sentimento
+* Pedro e Gabriel -> Começo da criação da base para a modelagem financeira (Selic, Dólar) para o Machine Learning

@@ -15,3 +15,7 @@ Semana III (20/11)
 
 Semana IV (11/12)
 * Documentação e modelagem da ideia (Grupo inteiro)
+
+Semana V(18/12)
+* Modelo A - Sebastian
+* Features Modelo A - Gabriel e Pedro
